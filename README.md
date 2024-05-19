@@ -1,3 +1,4 @@
 
+## Diego Daniel Lucchelli
 ## Archivos del Trabajo Práctico 2  
-Seminario de práctica Informática - 2024
+Seminario de Práctica Informática - 2024
